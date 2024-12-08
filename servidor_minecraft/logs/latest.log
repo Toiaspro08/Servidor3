@@ -2006,3 +2006,272 @@ Caused by: java.lang.NullPointerException: Undefined message for discriminator 1
 [22:31:02] [Server thread/INFO] [Waila]: Player EntityPlayerMP['MPV1014'/360140, l='world', x=710.94, y=61.94, z=-1102.62] connected. Sending ping
 [22:36:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <tobiaspro08> ya pulido
 [22:36:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Set own game mode to Creative Mode]
+[22:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Set own game mode to Survival Mode]
+[22:38:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[22:38:01] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[22:38:01] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:38:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Given [Universal Block Remover] * 1 to tobiaspro08]
+[22:41:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[22:41:37] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[22:41:37] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:41:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[22:41:44] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[22:41:44] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:41:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MPV1014 lost connection: Disconnected
+[22:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 left the game
+[22:41:58] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/Servidor3/servidor_minecraft/./world/data/inventory-MPV1014-2024-12-08_22.41.58-death-0.dat. It can be restored with command '/ob_inventory restore MPV1014 MPV1014-2024-12-08_22.41.58-death-0'
+[22:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 was shot by Sukistron
+[22:41:58] [Server thread/INFO] [tombstone]: The last known grave of MPV1014 is at location [name:Last Grave, x:689, y:76, z:-1006] in the dimension 0
+[22:42:27] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[22:42:27] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.0,mclib@2.4.3,mowziesmobs@1.5.8,extendedrenderer@v1.0,disenchanter@1.8,gokistats@1.2.10,cgm@0.15.3,creativecoredummy@1.0.0,openmods@0.12.2,configmod@v1.0,itemfilters@1.0.4.2,jei@4.16.1.1012,reap@1.5.3,waystones@4.1.0,mcp@9.42,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,notenoughscaffold@1.10,sapturretmod@4.0.0-beta.4.6,llibrary@1.7.20,omlib@3.1.5-256,iceandfire@1.9.1,waila@1.8.26,carryon@1.12.3,emoticons@1.1.2,enderstorage@2.4.6.137,jeresources@0.9.2.60,nocubessrpsurvival@3.0.0,paraglider@1.0.1.5,forge@14.23.5.2859,orelib@3.6.0.1,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,minecraft@1.12.2,nocubessrparmory@3.0.0,ironfurnaces@1.3.5,openmodscore@0.12.2,creativecore@1.10.0,vehicle@0.44.1,extrautils2@1.0,roguelike@1.8.0,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,replaymod@1.12.2-2.6.13,securitycraft@v1.9.8,autoreglib@1.3-32,elevatorid@1.3.12,lostcities@2.0.22,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.2,atlaslib@1.1.5a,coroutil@1.12.1-1.2.37,srparasites@1.9.18,spartanweaponry@1.5.3,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,codechickenlib@3.2.3.358,playerrevive@1.0
+[22:42:27] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[22:42:28] [Netty Epoll Server IO #5/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:42:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:42:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MPV1014[/127.246.176.154:47425] logged in with entity id 379761 at (689.6999999880791, 76.0, -1005.237500011921)
+[22:42:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 joined the game
+[22:42:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['MPV1014'/379761, l='world', x=689.70, y=76.00, z=-1005.24] connected. Sending ping
+[22:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Teleported MPV1014 to tobiaspro08]
+[22:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sukistron: Teleported Sukistron to tobiaspro08]
+[22:44:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[22:44:39] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[22:44:39] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:45:00] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/Servidor3/servidor_minecraft/./world/data/inventory-MPV1014-2024-12-08_22.45.00-death-0.dat. It can be restored with command '/ob_inventory restore MPV1014 MPV1014-2024-12-08_22.45.00-death-0'
+[22:45:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 fell from a high place
+[22:45:00] [Server thread/INFO] [tombstone]: The last known grave of MPV1014 is at location [name:Last Grave, x:695, y:63, z:-1086] in the dimension 0
+[22:46:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sukistron: Teleported MPV1014 to Sukistron]
+[22:47:22] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[22:47:22] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 71 mods : wolfarmor@3.8.0,mclib@2.4.3,mowziesmobs@1.5.8,extendedrenderer@v1.0,disenchanter@1.8,gokistats@1.2.10,cgm@0.15.3,creativecoredummy@1.0.0,openmods@0.12.2,configmod@v1.0,itemfilters@1.0.4.2,jei@4.16.1.1012,reap@1.5.3,waystones@4.1.0,mcp@9.42,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,notenoughscaffold@1.10,sapturretmod@4.0.0-beta.4.6,llibrary@1.7.20,omlib@3.1.5-256,iceandfire@1.9.1,waila@1.8.26,carryon@1.12.3,emoticons@1.1.2,enderstorage@2.4.6.137,jeresources@0.9.2.60,nocubessrpsurvival@3.0.0,paraglider@1.0.1.5,forge@14.23.5.2860,orelib@3.6.0.1,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,minecraft@1.12.2,nocubessrparmory@3.0.0,baubles@1.5.2,ironfurnaces@1.3.5,openmodscore@0.12.2,creativecore@1.10.0,vehicle@0.44.1,extrautils2@1.0,roguelike@1.8.0,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,replaymod@1.12.2-2.6.13,securitycraft@v1.9.8,autoreglib@1.3-32,elevatorid@1.3.12,lostcities@2.0.22,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.2,atlaslib@1.1.5a,coroutil@1.12.1-1.2.37,srparasites@1.9.18,spartanweaponry@1.5.3,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,codechickenlib@3.2.3.358,playerrevive@1.0
+[22:47:22] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[22:47:23] [Netty Epoll Server IO #7/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:47:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:47:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Adrian_JS[/127.219.150.69:36033] logged in with entity id 394049 at (734.300700867149, 66.0, -1084.300000011921)
+[22:47:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Adrian_JS joined the game
+[22:47:25] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Adrian_JS'/394049, l='world', x=734.30, y=66.00, z=-1084.30] connected. Sending ping
+[22:47:51] [Netty Epoll Server IO #7/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+io.netty.handler.codec.DecoderException: java.lang.NullPointerException: Undefined message for discriminator 13 in channel autoreglib
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:98) ~[MessageToMessageDecoder.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111) ~[MessageToMessageCodec.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:274) [EmbeddedChannel.class:?]
+	at net.minecraftforge.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:99) [FMLProxyPacket.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:147) [gw.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:49) [gw.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.handleServerSideCustomPacket(NetworkDispatcher.java:452) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:264) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:72) [NetworkDispatcher.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:287) [IdleStateHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:1017) [AbstractEpollStreamChannel$EpollStreamUnsafe.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:394) [EpollEventLoop.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:299) [EpollEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException: Undefined message for discriminator 13 in channel autoreglib
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:107) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:41) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$2.decode(MessageToMessageCodec.java:81) ~[MessageToMessageCodec$2.class:?]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:88) ~[MessageToMessageDecoder.class:?]
+	... 51 more
+[22:47:51] [Netty Epoll Server IO #7/ERROR] [FML]: SimpleChannelHandlerWrapper exception
+io.netty.handler.codec.DecoderException: java.lang.NullPointerException: Undefined message for discriminator 13 in channel autoreglib
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:98) ~[MessageToMessageDecoder.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111) ~[MessageToMessageCodec.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:274) [EmbeddedChannel.class:?]
+	at net.minecraftforge.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:99) [FMLProxyPacket.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:147) [gw.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:49) [gw.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.handleServerSideCustomPacket(NetworkDispatcher.java:452) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:264) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:72) [NetworkDispatcher.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:287) [IdleStateHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:1017) [AbstractEpollStreamChannel$EpollStreamUnsafe.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:394) [EpollEventLoop.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:299) [EpollEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException: Undefined message for discriminator 13 in channel autoreglib
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:107) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:41) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$2.decode(MessageToMessageCodec.java:81) ~[MessageToMessageCodec$2.class:?]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:88) ~[MessageToMessageDecoder.class:?]
+	... 51 more
+[22:47:51] [Netty Epoll Server IO #7/ERROR] [FML]: There was a critical exception handling a packet on channel autoreglib
+io.netty.handler.codec.DecoderException: java.lang.NullPointerException: Undefined message for discriminator 13 in channel autoreglib
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:98) ~[MessageToMessageDecoder.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec.channelRead(MessageToMessageCodec.java:111) ~[MessageToMessageCodec.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) ~[DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) ~[DefaultChannelPipeline.class:?]
+	at io.netty.channel.embedded.EmbeddedChannel.writeInbound(EmbeddedChannel.java:274) ~[EmbeddedChannel.class:?]
+	at net.minecraftforge.fml.common.network.internal.FMLProxyPacket.func_148833_a(FMLProxyPacket.java:99) [FMLProxyPacket.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:147) [gw.class:?]
+	at net.minecraft.network.NetworkManager.channelRead0(NetworkManager.java:49) [gw.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.handleServerSideCustomPacket(NetworkDispatcher.java:452) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:264) [NetworkDispatcher.class:?]
+	at net.minecraftforge.fml.common.network.handshake.NetworkDispatcher.channelRead0(NetworkDispatcher.java:72) [NetworkDispatcher.class:?]
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:105) [SimpleChannelInboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293) [ByteToMessageDecoder.class:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267) [ByteToMessageDecoder.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:287) [IdleStateHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:340) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334) [DefaultChannelPipeline$HeadContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:362) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:348) [AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926) [DefaultChannelPipeline.class:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:1017) [AbstractEpollStreamChannel$EpollStreamUnsafe.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:394) [EpollEventLoop.class:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:299) [EpollEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NullPointerException: Undefined message for discriminator 13 in channel autoreglib
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:107) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at net.minecraftforge.fml.common.network.FMLIndexedMessageToMessageCodec.decode(FMLIndexedMessageToMessageCodec.java:41) ~[FMLIndexedMessageToMessageCodec.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec$2.decode(MessageToMessageCodec.java:81) ~[MessageToMessageCodec$2.class:?]
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:88) ~[MessageToMessageDecoder.class:?]
+	... 51 more
+[22:47:51] [Netty Epoll Server IO #7/ERROR] [FML]: Network Disconnect: A fatal error has occurred, this connection is terminated
+[22:47:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Adrian_JS lost connection: A fatal error has occurred, this connection is terminated
+[22:47:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Adrian_JS left the game
+[22:48:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[22:48:06] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[22:48:06] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tobiaspro08 is bleeding...
+[22:48:22] [Server thread/INFO] [tombstone]: The death event of the player tobiaspro08 was cancelled by another mod
+[22:48:22] [Server thread/INFO] [tombstone]: tobiaspro08 has successfully been saved
+[22:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tobiaspro08 is bleeding...
+[22:48:55] [Server thread/INFO] [tombstone]: The death event of the player tobiaspro08 was cancelled by another mod
+[22:48:55] [Server thread/INFO] [tombstone]: tobiaspro08 has successfully been saved
+[22:49:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tobiaspro08 is bleeding...
+[22:49:20] [Server thread/INFO] [tombstone]: The death event of the player tobiaspro08 was cancelled by another mod
+[22:49:20] [Server thread/INFO] [tombstone]: tobiaspro08 has successfully been saved
+[22:49:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[22:49:31] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[22:49:31] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:50:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[22:50:33] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[22:50:33] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:50:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Killed MPV1014]
+[22:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Killed MPV1014]
+[22:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Killed MPV1014]
+[22:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Killed MPV1014]
+[22:51:33] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/Servidor3/servidor_minecraft/./world/data/inventory-MPV1014-2024-12-08_22.51.33-death-0.dat. It can be restored with command '/ob_inventory restore MPV1014 MPV1014-2024-12-08_22.51.33-death-0'
+[22:51:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 was slain by tobiaspro08
+[22:51:33] [Server thread/INFO] [tombstone]: The last known grave of MPV1014 is at location [name:Last Grave, x:707, y:70, z:-1033] in the dimension 0
+[22:51:40] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:51:40] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.0,mclib@2.4.3,mowziesmobs@1.5.8,extendedrenderer@v1.0,disenchanter@1.8,gokistats@1.2.10,cgm@0.15.3,creativecoredummy@1.0.0,openmods@0.12.2,configmod@v1.0,itemfilters@1.0.4.2,jei@4.16.1.1012,reap@1.5.3,waystones@4.1.0,mcp@9.42,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,notenoughscaffold@1.10,sapturretmod@4.0.0-beta.4.6,llibrary@1.7.20,omlib@3.1.5-256,iceandfire@1.9.1,waila@1.8.26,carryon@1.12.3,enderstorage@2.4.6.137,jeresources@0.9.2.60,nocubessrpsurvival@3.0.0,paraglider@1.0.1.5,forge@14.23.5.2860,orelib@3.6.0.1,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,minecraft@1.12.2,nocubessrparmory@3.0.0,baubles@1.5.2,ironfurnaces@1.3.5,openmodscore@0.12.2,creativecore@1.10.0,vehicle@0.44.1,extrautils2@1.0,roguelike@1.8.0,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,replaymod@1.12.2-2.6.13,securitycraft@v1.9.8,autoreglib@1.3-32,elevatorid@1.3.12,lostcities@2.0.22,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.2,atlaslib@1.1.5a,coroutil@1.12.1-1.2.37,srparasites@1.9.18,spartanweaponry@1.5.3,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,codechickenlib@3.2.3.358,playerrevive@1.0
+[22:51:40] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[22:51:40] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:51:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:51:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Adrian_JS[/127.219.150.69:43875] logged in with entity id 404671 at (734.300700867149, 66.0, -1084.300000011921)
+[22:51:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Adrian_JS joined the game
+[22:51:43] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Adrian_JS'/404671, l='world', x=734.30, y=66.00, z=-1084.30] connected. Sending ping
+[22:52:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MPV1014 lost connection: Disconnected
+[22:52:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 left the game
+[22:53:43] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:53:43] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.0,mclib@2.4.3,mowziesmobs@1.5.8,extendedrenderer@v1.0,disenchanter@1.8,gokistats@1.2.10,cgm@0.15.3,creativecoredummy@1.0.0,openmods@0.12.2,configmod@v1.0,itemfilters@1.0.4.2,jei@4.16.1.1012,reap@1.5.3,waystones@4.1.0,mcp@9.42,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,notenoughscaffold@1.10,sapturretmod@4.0.0-beta.4.6,llibrary@1.7.20,omlib@3.1.5-256,iceandfire@1.9.1,waila@1.8.26,carryon@1.12.3,emoticons@1.1.2,enderstorage@2.4.6.137,jeresources@0.9.2.60,nocubessrpsurvival@3.0.0,paraglider@1.0.1.5,forge@14.23.5.2859,orelib@3.6.0.1,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,minecraft@1.12.2,nocubessrparmory@3.0.0,ironfurnaces@1.3.5,openmodscore@0.12.2,creativecore@1.10.0,vehicle@0.44.1,extrautils2@1.0,roguelike@1.8.0,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,replaymod@1.12.2-2.6.13,securitycraft@v1.9.8,autoreglib@1.3-32,elevatorid@1.3.12,lostcities@2.0.22,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.2,atlaslib@1.1.5a,coroutil@1.12.1-1.2.37,srparasites@1.9.18,spartanweaponry@1.5.3,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,codechickenlib@3.2.3.358,playerrevive@1.0
+[22:53:43] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[22:53:43] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:53:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:53:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MPV1014[/127.246.176.154:37691] logged in with entity id 410359 at (16.9553337512933, 63.0, -5.6006012510636545)
+[22:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 joined the game
+[22:53:46] [Server thread/INFO] [Waila]: Player EntityPlayerMP['MPV1014'/410359, l='world', x=16.96, y=63.00, z=-5.60] connected. Sending ping
+[22:54:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Teleported MPV1014 to tobiaspro08]
+[22:55:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 has made the advancement [Knowledge raises the soul]
