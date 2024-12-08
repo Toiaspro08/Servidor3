@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "disenchanter:recipes/clear_table_upgrades": {
+    "criteria": {
+      "has_disenchantment_table": "2024-12-08 23:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-08 23:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-11-17 22:00:18 +0000"
@@ -1096,6 +1108,12 @@
     },
     "done": true
   },
+  "disenchanter:recipes/upgrade_table_automatic": {
+    "criteria": {
+      "has_disenchantment_table": "2024-12-08 23:53:48 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/gold_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-11-28 00:30:27 +0000"
@@ -1360,6 +1378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 23:52:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2024-11-17 22:00:18 +0000"
@@ -1614,6 +1638,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-08 23:47:44 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/upgrade_table_bulkdisenchanting": {
+    "criteria": {
+      "has_disenchantment_table": "2024-12-08 23:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2024-12-01 01:19:24 +0000"
@@ -1701,6 +1737,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-11-22 00:36:09 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-08 23:51:14 +0000"
     },
     "done": true
   },
@@ -1824,6 +1866,12 @@
     },
     "done": true
   },
+  "disenchanter:recipes/upgrade_table_cycling": {
+    "criteria": {
+      "has_disenchantment_table": "2024-12-08 23:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-11-22 00:36:09 +0000"
@@ -1899,6 +1947,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-11-17 22:00:18 +0000"
+    },
+    "done": true
+  },
+  "disenchanter:recipes/upgrade_table_voiding": {
+    "criteria": {
+      "has_disenchantment_table": "2024-12-08 23:53:48 +0000"
     },
     "done": true
   },
