@@ -1210,3 +1210,31 @@
 [20:43:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 is bleeding...
 [20:43:00] [Server thread/INFO] [tombstone]: The death event of the player Wolcroft140 was cancelled by another mod
 [20:43:00] [Server thread/INFO] [tombstone]: Wolcroft140 has successfully been saved
+[20:46:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEGOARON is bleeding...
+[20:46:27] [Server thread/INFO] [tombstone]: The death event of the player DEGOARON was cancelled by another mod
+[20:46:27] [Server thread/INFO] [tombstone]: DEGOARON has successfully been saved
+[20:46:31] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/Servidor3/servidor_minecraft/./world/data/inventory-DEGOARON-2024-12-08_20.46.31-death-0.dat. It can be restored with command '/ob_inventory restore DEGOARON DEGOARON-2024-12-08_20.46.31-death-0'
+[20:46:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEGOARON burned to death
+[20:46:31] [Server thread/INFO] [tombstone]: The last known grave of DEGOARON is at location [name:Last Grave, x:750, y:72, z:-1020] in the dimension 0
+[20:47:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sukistron: Teleported Wolcroft140 to Sukistron]
+[20:49:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron has made the advancement [A Time for Misadventure]
+[20:49:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 has made the advancement [A Time for Misadventure]
+[20:49:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron has completed the challenge [Ancient Knowledge]
+[20:49:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron has completed the challenge [Ancient Fishing Rod]
+[20:49:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron has reached the goal [Enchanted for Misadventure]
+[20:51:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron has made the advancement [An adventure awaits you]
+[20:53:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron has reached the goal [The treasure is at hand]
+[20:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 has completed the challenge [Ancient Fishing Rod]
+[20:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 has reached the goal [Enchanted for Misadventure]
+[20:56:06] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[20:56:06] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[20:56:06] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[20:56:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sukistron: Teleported Sukistron to Wolcroft140]
+[20:57:26] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5a82c56)
+[21:00:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron has made the advancement [Dragon Growth Hormone]
+[21:02:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEGOARON is bleeding...
+[21:02:08] [Server thread/INFO] [tombstone]: The death event of the player DEGOARON was cancelled by another mod
+[21:02:08] [Server thread/INFO] [tombstone]: DEGOARON has successfully been saved
+[21:02:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: DEGOARON is bleeding...
+[21:02:31] [Server thread/INFO] [tombstone]: The death event of the player DEGOARON was cancelled by another mod
+[21:02:31] [Server thread/INFO] [tombstone]: DEGOARON has successfully been saved

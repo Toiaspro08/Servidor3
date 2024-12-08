@@ -246,6 +246,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2024-12-08 20:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-11-23 03:33:54 +0000"
@@ -297,6 +303,12 @@
   "tombstone:recipes/from_impregnated_diamond": {
     "criteria": {
       "has_ingredient": "2024-11-30 20:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-08 20:51:43 +0000"
     },
     "done": true
   },
@@ -363,6 +375,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-17 22:36:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-08 20:49:12 +0000"
     },
     "done": true
   },
@@ -442,6 +460,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-11-23 03:40:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_treasure": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 20:53:13 +0000"
     },
     "done": true
   },
@@ -1107,6 +1131,7 @@
       "frozen_river": "2024-12-01 17:42:03 +0000",
       "forest": "2024-11-17 22:52:04 +0000",
       "swampland": "2024-11-17 21:55:19 +0000",
+      "birch_forest": "2024-12-08 20:55:33 +0000",
       "deep_ocean": "2024-11-17 22:42:51 +0000",
       "beaches": "2024-11-17 22:43:17 +0000",
       "extreme_hills_with_trees": "2024-11-17 22:54:01 +0000",
@@ -1119,6 +1144,7 @@
       "savanna_rock": "2024-12-03 03:00:16 +0000",
       "ice_mountains": "2024-12-01 17:39:46 +0000",
       "taiga": "2024-11-30 22:57:37 +0000",
+      "birch_forest_hills": "2024-12-08 20:55:37 +0000",
       "taiga_cold": "2024-12-01 17:38:24 +0000",
       "ocean": "2024-11-17 22:40:50 +0000",
       "extreme_hills": "2024-11-17 22:53:44 +0000",
@@ -1176,6 +1202,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-11-17 21:58:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-08 20:49:34 +0000"
     },
     "done": true
   },
@@ -1491,6 +1523,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/ancient_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 20:49:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-17 22:36:58 +0000"
@@ -1500,6 +1538,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-11-24 02:01:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-12-08 21:00:58 +0000"
     },
     "done": true
   },
@@ -2518,6 +2562,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-11-23 04:32:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-08 20:49:34 +0000"
     },
     "done": true
   },

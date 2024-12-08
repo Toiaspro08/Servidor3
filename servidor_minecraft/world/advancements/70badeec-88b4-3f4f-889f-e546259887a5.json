@@ -501,6 +501,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-08 20:49:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-11-22 00:50:36 +0000"
@@ -1590,6 +1596,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/ancient_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-08 20:54:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-11-21 23:05:17 +0000"
@@ -1815,6 +1827,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-11-21 23:06:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-08 20:54:07 +0000"
     },
     "done": true
   },
