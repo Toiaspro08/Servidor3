@@ -1562,3 +1562,24 @@ Caused by: java.lang.NullPointerException: Undefined message for discriminator 3
 [21:55:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Sukistron[/127.58.228.122:40873] logged in with entity id 288340 at (776.67110521861, 73.0, -1017.6451236746104)
 [21:55:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron joined the game
 [21:55:54] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Sukistron'/288340, l='world', x=776.67, y=73.00, z=-1017.65] connected. Sending ping
+[21:58:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Sukistron: Teleported Sukistron to Wolcroft140]
+[21:59:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Sukistron moved wrongly!
+[21:59:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[21:59:46] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[21:59:46] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:00:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 is bleeding...
+[22:00:15] [Server thread/INFO] [tombstone]: The death event of the player MPV1014 was cancelled by another mod
+[22:00:15] [Server thread/INFO] [tombstone]: MPV1014 has successfully been saved
+[22:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Adrian_JS is bleeding...
+[22:03:55] [Server thread/INFO] [tombstone]: The death event of the player Adrian_JS was cancelled by another mod
+[22:03:55] [Server thread/INFO] [tombstone]: Adrian_JS has successfully been saved
+[22:05:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MPV1014 lost connection: Disconnected
+[22:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 left the game
+[22:06:00] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[22:06:00] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 70 mods : wolfarmor@3.8.0,mclib@2.4.3,mowziesmobs@1.5.8,extendedrenderer@v1.0,disenchanter@1.8,gokistats@1.2.10,cgm@0.15.3,creativecoredummy@1.0.0,openmods@0.12.2,configmod@v1.0,itemfilters@1.0.4.2,jei@4.16.1.1012,reap@1.5.3,waystones@4.1.0,mcp@9.42,nocubessrpnests@3.0.0,sanplayermodel@1.2.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,travelersbackpack@1.0.35,zombieawareness@1.12.1-1.11.16,bookshelf@2.3.590,inventorytweaks@1.63+release.109.220f184,ironbackpacks@1.12.2-3.0.8-12,notenoughscaffold@1.10,sapturretmod@4.0.0-beta.4.6,llibrary@1.7.20,omlib@3.1.5-256,iceandfire@1.9.1,waila@1.8.26,carryon@1.12.3,emoticons@1.1.2,enderstorage@2.4.6.137,jeresources@0.9.2.60,nocubessrpsurvival@3.0.0,paraglider@1.0.1.5,forge@14.23.5.2859,orelib@3.6.0.1,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,minecraft@1.12.2,nocubessrparmory@3.0.0,ironfurnaces@1.3.5,openmodscore@0.12.2,creativecore@1.10.0,vehicle@0.44.1,extrautils2@1.0,roguelike@1.8.0,bloodmoon@1.5.3,quark@r1.6-179,ic2@2.8.222-ex112,spartanshields@1.5.5,replaymod@1.12.2-2.6.13,securitycraft@v1.9.8,autoreglib@1.3-32,elevatorid@1.3.12,lostcities@2.0.22,sanlib@1.6.3,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.2,atlaslib@1.1.5a,coroutil@1.12.1-1.2.37,srparasites@1.9.18,spartanweaponry@1.5.3,appleskin@1.0.14,cfm@6.3.0,chisel@MC1.12.2-1.0.2.45,codechickenlib@3.2.3.358,playerrevive@1.0
+[22:06:00] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[22:06:00] [Netty Epoll Server IO #5/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:06:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:06:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MPV1014[/127.246.176.154:51205] logged in with entity id 304627 at (660.6857093208133, 67.0, -1039.6551427165905)
+[22:06:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MPV1014 joined the game
+[22:06:03] [Server thread/INFO] [Waila]: Player EntityPlayerMP['MPV1014'/304627, l='world', x=660.69, y=67.00, z=-1039.66] connected. Sending ping
