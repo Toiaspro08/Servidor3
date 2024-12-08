@@ -312,6 +312,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet_of_home": "2024-12-08 21:40:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2024-11-24 00:13:14 +0000"
@@ -816,6 +822,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-11-29 23:29:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/engrave_decorative_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 21:39:46 +0000"
     },
     "done": true
   },
@@ -1415,6 +1427,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2024-12-08 21:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-11-17 23:21:33 +0000"
@@ -1541,6 +1559,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/engrave_grave_plate": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 21:38:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-08 21:00:58 +0000"
@@ -1610,6 +1634,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "bronze": "2024-11-30 00:47:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 21:39:46 +0000"
     },
     "done": true
   },

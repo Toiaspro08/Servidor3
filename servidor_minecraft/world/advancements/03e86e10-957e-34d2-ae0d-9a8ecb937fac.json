@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2024-12-08 21:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-11-24 00:18:59 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-11-30 16:44:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 21:36:09 +0000"
     },
     "done": true
   },
@@ -944,6 +956,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 21:36:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2024-11-24 20:05:06 +0000"
@@ -1319,6 +1337,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-11-24 20:19:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "craft": "2024-12-08 21:43:58 +0000"
     },
     "done": true
   },

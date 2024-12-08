@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2024-12-08 21:38:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-11-21 23:06:05 +0000"
