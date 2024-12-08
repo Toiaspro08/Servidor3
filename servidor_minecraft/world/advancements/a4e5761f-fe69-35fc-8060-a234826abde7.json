@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 22:08:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-11-17 22:07:21 +0000"
@@ -877,6 +883,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_the_recipe": "2024-12-01 21:52:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 22:08:49 +0000"
     },
     "done": true
   },
@@ -1914,6 +1926,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_the_recipe": "2024-12-01 21:52:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "gray": "2024-12-08 22:12:54 +0000"
     },
     "done": true
   },
