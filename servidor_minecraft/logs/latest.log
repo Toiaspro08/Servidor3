@@ -271,3 +271,28 @@ Caused by: java.lang.NullPointerException
 [00:47:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Adrian_JS lost connection: Disconnected
 [00:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Adrian_JS left the game
 [00:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Wolcroft140> aiuda
+[00:49:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tobiaspro08 is bleeding...
+[00:49:56] [Server thread/INFO] [tombstone]: The death event of the player tobiaspro08 was cancelled by another mod
+[00:49:56] [Server thread/INFO] [tombstone]: tobiaspro08 has successfully been saved
+[00:50:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 is bleeding...
+[00:50:11] [Server thread/INFO] [tombstone]: The death event of the player Wolcroft140 was cancelled by another mod
+[00:50:11] [Server thread/INFO] [tombstone]: Wolcroft140 has successfully been saved
+[00:51:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 is bleeding...
+[00:51:21] [Server thread/INFO] [tombstone]: The death event of the player Wolcroft140 was cancelled by another mod
+[00:51:21] [Server thread/INFO] [tombstone]: Wolcroft140 has successfully been saved
+[00:51:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tobiaspro08 is bleeding...
+[00:51:27] [Server thread/INFO] [tombstone]: The death event of the player tobiaspro08 was cancelled by another mod
+[00:51:27] [Server thread/INFO] [tombstone]: tobiaspro08 has successfully been saved
+[00:51:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <tobiaspro08> AYUDAAAAAA
+[00:52:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/Servidor3/servidor_minecraft/./world/data/inventory-tobiaspro08-2024-12-09_00.52.26-death-0.dat. It can be restored with command '/ob_inventory restore tobiaspro08 tobiaspro08-2024-12-09_00.52.26-death-0'
+[00:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: tobiaspro08 was shot by Skeleton
+[00:52:26] [Server thread/INFO] [tombstone]: The last known grave of tobiaspro08 is at location [name:Last Grave, x:730, y:67, z:-1124] in the dimension 0
+[00:52:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 is bleeding...
+[00:52:57] [Server thread/INFO] [tombstone]: The death event of the player Wolcroft140 was cancelled by another mod
+[00:52:57] [Server thread/INFO] [tombstone]: Wolcroft140 has successfully been saved
+[00:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 has made the advancement [An adventure awaits you]
+[00:58:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Sukistron lost connection: Disconnected
+[00:58:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Sukistron left the game
+[00:58:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [tobiaspro08: Set own game mode to Creative Mode]
+[00:58:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Wolcroft140 lost connection: Disconnected
+[00:58:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 left the game

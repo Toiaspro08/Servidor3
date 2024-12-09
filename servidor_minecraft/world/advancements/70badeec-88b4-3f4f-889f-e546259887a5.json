@@ -384,6 +384,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2024-12-09 00:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-11-27 22:48:47 +0000"
