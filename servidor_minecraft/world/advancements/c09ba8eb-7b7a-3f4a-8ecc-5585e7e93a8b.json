@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-09 00:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2024-11-24 01:07:29 +0000"
@@ -610,6 +616,12 @@
   "tombstone:tutorial/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-11-30 03:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-12-09 00:30:47 +0000"
     },
     "done": true
   },
@@ -1178,6 +1190,12 @@
   "tombstone:tutorial/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-08 21:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-09 00:30:47 +0000"
     },
     "done": true
   },
