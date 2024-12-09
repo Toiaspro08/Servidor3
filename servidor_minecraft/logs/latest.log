@@ -265,3 +265,9 @@ Caused by: java.lang.NullPointerException
 [00:36:47] [Server thread/INFO] [Waila]: Player EntityPlayerMP['SoyZenderXD'/895299, l='world', x=703.69, y=69.00, z=-1068.50] connected. Sending ping
 [00:37:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: SoyZenderXD lost connection: Disconnected
 [00:37:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: SoyZenderXD left the game
+[00:47:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wolcroft140 is bleeding...
+[00:47:36] [Server thread/INFO] [tombstone]: The death event of the player Wolcroft140 was cancelled by another mod
+[00:47:36] [Server thread/INFO] [tombstone]: Wolcroft140 has successfully been saved
+[00:47:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Adrian_JS lost connection: Disconnected
+[00:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Adrian_JS left the game
+[00:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Wolcroft140> aiuda
